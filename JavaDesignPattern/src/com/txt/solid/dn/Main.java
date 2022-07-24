@@ -1,7 +1,5 @@
 package com.txt.solid.dn;
 
-import com.txt.solid.dn.Copy;
-
 /**
  * @Comment Not DIP
  */
